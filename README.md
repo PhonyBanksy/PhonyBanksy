@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PhonyBanksy
 - 👀 I’m interested in modifying BeamNG maps
 - 🌱 I’m currently learning ways to improve my ability to bring custom content to the world
-- 💞️ I’m looking to collaborate on CaRP  
 - 📫 mariusasuk@gmail.com
 
 <!---
